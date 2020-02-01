@@ -1,0 +1,37 @@
+{
+  "name": "textmate_tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff-hykin/textmate_tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeff-hykin/textmate_tester/issues"
+  },
+  "homepage": "https://github.com/jeff-hykin/textmate_tester#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "convert-svg-to-png": "^0.5.0",
+    "dictionary-en-us": "^2.1.1",
+    "glob": "^7.1.4",
+    "js-yaml": "^3.13.1",
+    "json-source-map": "^0.4.0",
+    "json-stable-stringify": "^1.0.1",
+    "lodash": "^4.17.13",
+    "minimatch": "^3.0.4",
+    "node-gyp": "^4.0.0",
+    "nspell": "^2.1.2",
+    "oniguruma": "^7.2.0",
+    "prettyjson": "^1.2.1",
+    "vscode-textmate": "^4.1.1",
+    "yargs": "^13.2.2"
+  }
+}
